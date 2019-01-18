@@ -12,6 +12,12 @@ Dockerfile
 nginx.conf
 ```
 
+## Update angular.json 's outputPath
+
+```
+"outputPath": "dist",
+```
+
 ## Running
 
 * Run docker cli Build and Run.
