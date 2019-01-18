@@ -14,9 +14,7 @@ nginx.conf
 
 ## Running
 
-docker cli
-
-* Run docker cli.  Build and Run.
+* Run docker cli Build and Run.
 
   ```
   docker build --rm -t angular-cli-build:latest .
@@ -24,7 +22,7 @@ docker cli
   docker run --rm -d -p 443:443 -p 8080:80 angular-cli-build:latest
   ```
 
-* Run docker compose 
+* Run docker-compose 
 
   ```
   docker-compose up -d --build
