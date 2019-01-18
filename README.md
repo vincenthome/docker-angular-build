@@ -1,6 +1,6 @@
-# docker-angular-build
+# Create Image angular-cli-build:latest
 
-# Angular CLI with Docker
+## Angular CLI with Docker
 
 I ran `ng new myapp` to generate the app. Then added the following files:
 
