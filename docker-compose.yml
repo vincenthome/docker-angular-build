@@ -7,6 +7,7 @@ services:
     environment:
       NODE_ENV: production
     ports:
-      - 80:443
+      - 8080:80
+      - 443:443
     ## set your startup file here
     command: [nginx-debug, '-g', 'daemon off;']
