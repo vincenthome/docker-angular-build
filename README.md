@@ -1,1 +1,32 @@
 # docker-angular-build
+
+# Angular CLI with Docker
+
+I ran `ng new myapp` to generate the app. Then added the following files:
+
+```bash
+.dockerignore
+docker-compose.yml
+docker-compose.debug.yml
+Dockerfile
+nginx.conf
+```
+
+## Running
+
+docker cli
+
+* Run docker cli.  Build and Run.
+
+  ```
+  docker build --rm -t angular-cli-build:latest .
+
+  docker run --rm -d -p 443:443 -p 8080:80 angular-cli-build:latest
+  ```
+
+* Run docker compose 
+
+  ```
+  docker-compose up -d --build
+  ```
+
