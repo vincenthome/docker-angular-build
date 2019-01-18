@@ -34,7 +34,7 @@ nginx.conf
   docker-compose up -d --build
   ```
 
-`-d` detached without any activities info.
+  - `-d` detached without any activities info.
 
-`--build` force a rebuilt of the images with any latest changes.
+  - `--build` force a rebuilt of the images with any latest changes.
 
