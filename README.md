@@ -38,3 +38,8 @@ nginx.conf
 
   - `--build` force a rebuilt of the images with any source changes.
 
+
+* misc
+
+  - [multi-stage with chrome headless](https://mherman.org/blog/dockerizing-an-angular-app)
+
