@@ -46,6 +46,7 @@ nginx.conf
   - [Configuration, Environment, Chrom headless](https://medium.com/@tiangolo/angular-in-docker-with-nginx-supporting-environments-built-with-multi-stage-docker-builds-bb9f1724e984)
   - [Puppeteer Tutroial](https://www.aymen-loukil.com/en/blog-en/google-puppeteer-tutorial-with-examples)
   - [Puppeteer Get Started](https://developers.google.com/web/tools/puppeteer)
+  - [Puppeteer API](https://github.com/GoogleChrome/puppeteer)
   
   
   
