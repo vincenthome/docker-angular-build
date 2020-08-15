@@ -1,4 +1,4 @@
-# Create Image angular-cli-build:latest
+# Docker Multistage Angular App
 
 ## Angular CLI with Docker
 
